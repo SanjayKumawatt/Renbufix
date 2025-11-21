@@ -103,10 +103,10 @@ const CollaborationSection = () => {
                                 At Renbufix, we don't just build software; we build partnerships. Whether you are a disruptor challenging the status quo or an industry leader seeking efficiency, we adapt to your vision.
                             </motion.p>
                             <motion.p variants={itemVariants} className="text-gray-600 text-lg leading-relaxed">
-                                Our flexible engagement models ensure that you get the exact technical expertise you need—from rapid prototyping to full-scale enterprise architecture.
+                                Our flexible engagement models ensure that you get the exact technical expertise you need-from rapid prototyping to full-scale enterprise architecture.
                             </motion.p>
                             <motion.p variants={itemVariants} className="text-gray-600 text-lg leading-relaxed border-l-4 border-green-500 pl-4 italic">
-                                "We deliver reliability, innovation, and speed—ensuring your technology becomes your biggest competitive advantage."
+                                "We deliver reliability, innovation, and speed-ensuring your technology becomes your biggest competitive advantage."
                             </motion.p>
                         </motion.div>
                     </motion.div>

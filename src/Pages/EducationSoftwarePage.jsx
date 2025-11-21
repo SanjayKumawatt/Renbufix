@@ -53,10 +53,10 @@ const EducationIntro = () => {
                             Transforming Campus Administration with <span className="text-blue-600">Renbufix Solutions</span>
                         </h2>
                         <p className="mt-6 text-gray-600 text-lg leading-relaxed">
-                            At <strong>Renbufix Technologies</strong>, we understand the complexities of running an educational institution. Our comprehensive Education Management Software (EMS) is designed to digitize and automate every aspect of campus life—from admission and fee collection to academics and transport.
+                            At <strong>Renbufix Technologies</strong>, we understand the complexities of running an educational institution. Our comprehensive Education Management Software (EMS) is designed to digitize and automate every aspect of campus life-from admission and fee collection to academics and transport.
                         </p>
                         <p className="mt-4 text-gray-600 text-lg leading-relaxed">
-                            Our goal is to bridge the gap between administration, teachers, students, and parents. By moving away from paper-based processes to a centralized cloud-based platform, we help you save time, reduce costs, and focus on what matters most—quality education.
+                            Our goal is to bridge the gap between administration, teachers, students, and parents. By moving away from paper-based processes to a centralized cloud-based platform, we help you save time, reduce costs, and focus on what matters most-quality education.
                         </p>
                     </motion.div>
                     <motion.div 

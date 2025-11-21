@@ -98,7 +98,6 @@ const PrivacyContent = () => {
                     transition={{ duration: 0.6 }}
                 >
                     <div className="mb-10 border-b border-gray-200 pb-8">
-                        <p className="text-gray-500 text-sm mb-2">Last Updated: October 26, 2023</p>
                         <h2 className="text-3xl font-bold text-gray-900">Introduction</h2>
                         <p className="mt-4 text-gray-600 leading-relaxed">
                             Welcome to <strong>Renbufix Technologies Private Limited</strong>. We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you.

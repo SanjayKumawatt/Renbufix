@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 // Placeholder for illustration
-const uiUxIllustration = "https://placehold.co/600x400/png?text=UI+UX+Design+Process";
+import uiUxIllustration from "../assets/logodesign/img1.png";
 
 const UiUxIntro = () => {
 
@@ -77,7 +77,7 @@ const UiUxIntro = () => {
                         </motion.p>
 
                         <motion.p variants={itemVariants} className="mt-4 text-gray-600 text-lg leading-relaxed">
-                            We adopt a collaborative, user-centric approach—working intimately with stakeholders to translate complex goals into elegant, functional designs. Let's partner to craft experiences that not only meet expectations but exceed them, driving tangible business results.
+                            We adopt a collaborative, user-centric approach-working intimately with stakeholders to translate complex goals into elegant, functional designs. Let's partner to craft experiences that not only meet expectations but exceed them, driving tangible business results.
                         </motion.p>
                     </motion.div>
                 </div>

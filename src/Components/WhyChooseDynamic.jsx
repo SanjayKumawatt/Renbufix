@@ -33,7 +33,7 @@ const WhyChooseDynamic = () => {
         {
             icon: <Search size={32} className="text-cyan-500" />,
             title: 'SEO Advantage',
-            description: 'Engineered for visibility. We integrate SEO best practices into the core of your dynamic site—optimizing structure, metadata, and speed to help you climb the search rankings.'
+            description: 'Engineered for visibility. We integrate SEO best practices into the core of your dynamic site-optimizing structure, metadata, and speed to help you climb the search rankings.'
         }
     ];
 

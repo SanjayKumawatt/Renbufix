@@ -93,7 +93,7 @@ const EngagementModels = () => {
                         Flexible <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-green-400">Engagement Models</span>
                     </motion.h2>
                     <motion.p variants={itemVariants} className="mt-6 text-lg text-gray-300 leading-relaxed">
-                        At <strong>Renbufix</strong>, we understand that one size doesn't fit all. Whether you need a fixed roadmap or an agile team, we adapt to your goals, timeline, and budget—guaranteeing transparency at every step.
+                        At <strong>Renbufix</strong>, we understand that one size doesn't fit all. Whether you need a fixed roadmap or an agile team, we adapt to your goals, timeline, and budget-guaranteeing transparency at every step.
                     </motion.p>
                     
                     <Link to="/contact">
