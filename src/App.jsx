@@ -9,7 +9,7 @@ import Contact from './Pages/Contact'
 // import { Home } from 'lucide-react'
 import WebsiteDevelopement from "./Pages/WebsiteDevelopement"
 import DynamicWebsite from './Pages/DynamicWebsite'
-import LogoDesign from '../../Nassimpay/src/Pages/LogoDesign'
+// import LogoDesign from '../../Nassimpay/src/Pages/LogoDesign'
 import MobileAppDevelopmentPage from './Pages/MobileAppDevelopmentPage'
 import EcommerceSoftwarePage from './Pages/EcommerceSoftware'
 import SeoSmoPage from './Pages/SeoSmoPage'
@@ -25,6 +25,7 @@ import TravelSoftwarePage from './Pages/TravelPage'
 import CrmSoftwarePage from './Pages/CRMPage'
 import PrivacyPolicyPage from './Pages/PrivacyPolicyPage'
 import TermsConditionsPage from './Pages/TermsAndConditions'
+import LogoDesign from './Pages/LogoDesign'
 
 
 const App = () => {
