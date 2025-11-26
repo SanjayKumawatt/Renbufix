@@ -80,10 +80,7 @@ const App = () => {
           path: "/seo-smo",
           element: <SeoSmoPage />
         },
-        {
-          path: "/bulk-sms",
-          element: <BulkSmsPage />
-        },
+        
         {
           path: "/payment-gateway",
           element: <PaymentGatewayPage />

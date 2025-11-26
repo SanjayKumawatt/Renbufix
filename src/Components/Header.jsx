@@ -54,7 +54,6 @@ const Header = () => {
         { name: 'Product Development', path: '/product-development' },
 
         { name: 'SEO/SMO Services', path: '/seo-smo' },
-        { name: 'Bulk SMS Services', path: '/bulk-sms' },
         { name: 'Payment Gateway', path: '/payment-gateway' },
     ];
 

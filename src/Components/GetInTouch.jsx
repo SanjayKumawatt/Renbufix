@@ -37,7 +37,7 @@ const GetInTouch = () => {
         <section className="bg-gray-50 py-20 lg:py-28" id="contact-section">
             <div className="container mx-auto px-6">
                 <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 bg-white shadow-2xl rounded-2xl overflow-hidden">
-                    
+
                     {/* Left Form Section */}
                     <motion.div
                         className="lg:col-span-7 p-8 md:p-12 bg-white"
@@ -49,7 +49,7 @@ const GetInTouch = () => {
                         <AnimatePresence mode="wait">
                             {formStatus === 'success' ? (
                                 // Success Message View
-                                <motion.div 
+                                <motion.div
                                     key="success"
                                     initial={{ opacity: 0, scale: 0.8 }}
                                     animate={{ opacity: 1, scale: 1 }}
@@ -63,7 +63,7 @@ const GetInTouch = () => {
                                     <p className="text-gray-600 max-w-md">
                                         Thank you for contacting Renbufix Technologies. Our team has received your message and will get back to you within 24 hours.
                                     </p>
-                                    <button 
+                                    <button
                                         onClick={() => setFormStatus('idle')}
                                         className="mt-8 text-blue-600 font-semibold hover:underline"
                                     >
@@ -79,7 +79,7 @@ const GetInTouch = () => {
                                     <motion.p variants={itemVariants} className="text-gray-600 mb-8">
                                         Have a project in mind? Let's discuss how we can help you grow.
                                     </motion.p>
-                                    
+
                                     <form className="space-y-6" onSubmit={handleSubmit}>
                                         <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
                                             <motion.div variants={itemVariants} className="relative">
@@ -100,17 +100,17 @@ const GetInTouch = () => {
                                             </motion.div>
                                         </div>
 
-                                        <motion.textarea 
+                                        <motion.textarea
                                             required
-                                            variants={itemVariants} 
-                                            placeholder="Tell us about your project..." 
-                                            rows="5" 
+                                            variants={itemVariants}
+                                            placeholder="Tell us about your project..."
+                                            rows="5"
                                             className="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 transition-all"
                                         ></motion.textarea>
-                                        
-                                        <motion.button 
-                                            variants={itemVariants} 
-                                            type="submit" 
+
+                                        <motion.button
+                                            variants={itemVariants}
+                                            type="submit"
                                             disabled={formStatus === 'submitting'}
                                             className={`w-full sm:w-auto font-bold py-3 px-8 rounded-lg transition-colors duration-300 flex items-center justify-center space-x-2 shadow-lg 
                                                 ${formStatus === 'submitting' ? 'bg-blue-400 cursor-not-allowed' : 'bg-blue-600 hover:bg-blue-700 text-white hover:shadow-blue-500/30'}`}
@@ -136,7 +136,7 @@ const GetInTouch = () => {
                     </motion.div>
 
                     {/* Right Contact Info */}
-                    <motion.div 
+                    <motion.div
                         className="lg:col-span-5 bg-gradient-to-br from-blue-600 to-blue-800 text-white p-8 md:p-12 flex flex-col justify-center relative overflow-hidden"
                         initial={{ opacity: 0, x: 20 }}
                         whileInView={{ opacity: 1, x: 0 }}
@@ -168,17 +168,16 @@ const GetInTouch = () => {
                                     </div>
                                 </div>
                             </div>
-                            
+
                             <div>
-                                 <div className="flex items-center">
+                                <div className="flex items-center">
                                     <div className="bg-white/20 p-3 rounded-lg mr-4 backdrop-blur-sm">
                                         <Mail size={24} className="text-white" />
                                     </div>
                                     <div>
                                         <h3 className="text-lg font-bold">Company Email</h3>
                                         <a href="mailto:support@renbufix.com" className="mt-1 block hover:text-blue-200 transition-colors text-blue-100">
-                                            support@renbufix.com
-                                        </a>
+                                            support@renbufix.in                                        </a>
                                     </div>
                                 </div>
                             </div>

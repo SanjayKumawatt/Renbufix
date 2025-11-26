@@ -65,7 +65,7 @@ const Footer = () => {
                             <div className="flex items-center">
                                 <Mail size={20} className="text-blue-600 flex-shrink-0" />
                                 <a href="mailto:support@renbufix.com" className="ml-3 text-gray-400 hover:text-blue-600 transition-colors text-sm">
-                                    support@renbufix.com
+                                    support@renbufix.in
                                 </a>
                             </div>
                         </div>
