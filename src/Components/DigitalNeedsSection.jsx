@@ -58,10 +58,10 @@ const DigitalNeedsSection = () => {
                             Renbufix Technologies offers a powerful suite of services including web development, mobile apps, cloud integration, and AI-driven solutions to help your business scale efficiently and smartly.
                         </p>
                         <p className="mt-4 text-lg text-gray-200">
-                            We work with startups, SMEs, enterprises, and government organizations to deliver tailor-made digital products that drive measurable results across industries.
+                            We support early-stage and scaling companies.
                         </p>
                         <p className="mt-4 text-lg text-gray-200">
-                            With over 10+ years of experience, Renbufix Technologies bridges the gap between vision and execution-delivering reliable offshore development services without compromise.
+                            Our team brings hands-on industry experience, Renbufix Technologies bridges the gap between vision and execution-delivering reliable offshore development services without compromise.
                         </p>
                         <ul className="mt-8 space-y-3 text-lg">
                             <li className="flex items-center"><span className="text-yellow-400 mr-3 text-2xl">◆</span> End-to-End Digital Solutions</li>

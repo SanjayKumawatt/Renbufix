@@ -315,7 +315,7 @@ const DevelopmentProcess = () => {
 // 5. Why Choose Mobile
 const WhyChooseMobile = () => {
      const benefits = [
-        { icon: <Users size={32}/>, title: 'Expert Team', description: 'Our team consists of experienced developers, designers, and strategists who breathe mobile tech.' },
+        { icon: <Users size={32}/>, title: 'Expert Team', description: 'Founded by a team passionate about building scalable products.' },
         { icon: <ShieldCheck size={32}/>, title: 'Scalable & Secure', description: 'We build robust apps designed to handle millions of users while ensuring enterprise-grade security.' },
         { icon: <Scaling size={32}/>, title: 'Agile Methodology', description: 'We use agile sprints to ensure flexibility, transparency, and faster time-to-market.' },
         { icon: <MessageCircle size={32}/>, title: 'Transparent Comm', description: 'We maintain clear and constant communication throughout the project lifecycle, keeping you in the loop.' },
