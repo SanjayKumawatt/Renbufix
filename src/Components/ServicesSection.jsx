@@ -11,12 +11,6 @@ const ServicesSection = () => {
         { icon: <Code size={28} className="text-green-600" />, title: 'Website Development', description: 'Modern, responsive websites that drive engagement, leads, and conversions.' },
         { icon: <ShoppingCart size={28} className="text-green-600" />, title: 'Ecommerce Solutions', description: 'Build secure and scalable online stores with personalized user journeys.' },
         { icon: <Paintbrush size={28} className="text-green-600" />, title: 'UI/UX Design', description: 'Crafting intuitive interfaces and seamless user experiences for every platform.' },
-        { icon: <Network size={28} className="text-green-600" />, title: 'MLM Software', description: 'Complete multi-level marketing software with real-time dashboards and automation.' },
-        { icon: <Landmark size={28} className="text-green-600" />, title: 'Nidhi Software', description: 'Automated solutions for Nidhi companies including accounting, loans, and member management.' },
-        { icon: <Power size={28} className="text-green-600" />, title: 'Mobile Recharge Software', description: 'All-in-one recharge portal solutions with multi-operator support and APIs.' },
-        { icon: <Building size={28} className="text-green-600" />, title: 'NBFC Software', description: 'Comprehensive loan management software tailored for NBFC operations and compliance.' },
-        // New Services Added
-        { icon: <Cloud size={28} className="text-green-600" />, title: 'ServiceNow Service', description: 'Enterprise cloud solutions to optimize digital workflows and service delivery.' },
         { icon: <Package size={28} className="text-green-600" />, title: 'Product Development', description: 'End-to-end product engineering from conceptualization to market launch.' }
     ];
 
