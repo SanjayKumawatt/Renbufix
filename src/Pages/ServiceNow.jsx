@@ -49,10 +49,10 @@ const ServiceNowIntro = () => {
                         transition={{ duration: 0.8, ease: "easeOut" }}
                     >
                         <h2 className="text-3xl md:text-4xl font-extrabold text-gray-900 leading-tight">
-                            Transform Enterprise Service Management with <span className="text-blue-600">Renbufix</span>
+                            Transform Growth-Ready Service Management with <span className="text-blue-600">Renbufix</span>
                         </h2>
                         <p className="mt-6 text-gray-600 text-lg leading-relaxed">
-                            At <strong>Renbufix Technologies</strong>, we leverage the power of the ServiceNow platform to digitize and automate your enterprise workflows. We help organizations break down silos, improve service delivery, and modernize operations across IT, HR, Customer Service, and Security.
+                            At <strong>Renbufix Technologies</strong>, we leverage the power of the ServiceNow platform to digitize and automate your startup workflows. We help organizations break down silos, improve service delivery, and modernize operations across IT, HR, Customer Service, and Security.
                         </p>
                         <p className="mt-4 text-gray-600 text-lg leading-relaxed">
                             Our team of certified ServiceNow experts provides end-to-end consulting, implementation, and support services. Whether you are looking to optimize IT operations or build custom workflow apps, we ensure you get maximum value from your ServiceNow investment.
@@ -83,7 +83,7 @@ const ServiceNowOfferings = () => {
         { icon: <Users size={32} />, title: 'HR Service Delivery', desc: 'Streamline employee experiences with a unified portal for all HR services and requests.' },
         { icon: <Settings size={32} />, title: 'Customer Service (CSM)', desc: 'Proactively address customer issues by connecting customer service with other departments.' },
         { icon: <Layers size={32} />, title: 'App Engine', desc: 'Build low-code custom applications to digitize unique business processes rapidly.' },
-        { icon: <Database size={32} />, title: 'Integrations', desc: 'Seamlessly connect ServiceNow with your existing enterprise tools and data sources.' },
+        { icon: <Database size={32} />, title: 'Integrations', desc: 'Seamlessly connect ServiceNow with your existing growth-ready tools and data sources.' },
     ];
 
     return (
@@ -161,7 +161,7 @@ const ServiceNowPage = () => {
             
             {/* CTA Section */}
             <div className="bg-cyan-600 py-16 text-center text-white">
-                <h2 className="text-3xl font-bold mb-6">Ready to Optimize Your Enterprise Workflows?</h2>
+                <h2 className="text-3xl font-bold mb-6">Ready to Optimize Your Business Workflows?</h2>
                 <Link to="/contact" className="inline-flex items-center bg-white text-cyan-600 font-bold py-3 px-8 rounded-full hover:bg-gray-100 transition-colors">
                     Get a Consultation <ArrowRightCircle className="ml-2" />
                 </Link>

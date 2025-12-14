@@ -63,7 +63,7 @@ const IdeasSection = () => {
                         </p>
                         
                         <p className="mt-4 text-lg text-gray-600 leading-relaxed">
-                            Whether it's a rapid MVP launch or a complex enterprise ecosystem, we deliver scalable, high-performance software-faster, smarter, and secure.
+                            Whether it's a rapid MVP launch or a complex Scalable digital platforms, we deliver scalable, high-performance software-faster, smarter, and secure.
                         </p>
                         
                         <div className="mt-8 bg-blue-50 border-l-4 border-blue-600 p-4 rounded-r-lg">

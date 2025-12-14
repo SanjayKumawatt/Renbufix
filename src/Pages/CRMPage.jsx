@@ -119,7 +119,7 @@ const CrmFeatures = () => {
 const WhyChooseCrm = () => {
      const benefits = [
         { icon: <Settings size={32}/>, title: 'Highly Customizable', description: 'Adapt the CRM fields, workflows, and dashboards to fit your unique business processes.' },
-        { icon: <Shield size={32}/>, title: 'Data Security', description: 'Enterprise-grade security ensures your sensitive customer data is always protected.' },
+        { icon: <Shield size={32}/>, title: 'Data Security', description: 'Modern security ensures your sensitive customer data is always protected.' },
         { icon: <CheckCircle2 size={32}/>, title: '360° Customer View', description: 'Get a complete history of every interaction, purchase, and preference for each customer.' },
         { icon: <MessageCircle size={32}/>, title: 'Better Collaboration', description: 'Enable seamless data sharing and communication between sales, marketing, and support teams.' },
     ];

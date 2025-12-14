@@ -73,7 +73,7 @@ const UiUxIntro = () => {
                         </motion.p>
                         
                         <motion.p variants={itemVariants} className="mt-4 text-gray-600 text-lg leading-relaxed">
-                          In a crowded digital landscape, intuitive User Interface (UI) and engaging User Experience (UX) are your strongest differentiators. Whether you are a startup defining your digital identity or an enterprise revitalizing a legacy platform, our design strategies are tailored to meet your specific business objectives.
+                          In a crowded digital landscape, intuitive User Interface (UI) and engaging User Experience (UX) are your strongest differentiators. Whether you are a startup defining your digital identity or an growth-ready revitalizing a legacy platform, our design strategies are tailored to meet your specific business objectives.
                         </motion.p>
 
                         <motion.p variants={itemVariants} className="mt-4 text-gray-600 text-lg leading-relaxed">

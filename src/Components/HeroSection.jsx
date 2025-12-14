@@ -26,7 +26,7 @@ const HeroSection = () => {
 
   return (
     <section className="relative min-h-screen flex items-center bg-white overflow-hidden">
-      
+
       {/* ===== FLOATING GREEN BALL (Background) ===== */}
       <motion.div
         className="absolute top-[40%] left-[10%] w-48 h-68 bg-blue-300 rounded-full blur-xl opacity-80 z-0"
@@ -60,7 +60,7 @@ const HeroSection = () => {
       {/* ===== HERO CONTENT ===== */}
       <div className="container mx-auto px-6 py-12 lg:py-24 relative z-10">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-          
+
           {/* LEFT SIDE CONTENT */}
           <motion.div
             className="flex flex-col justify-center text-center lg:text-left"
@@ -68,32 +68,32 @@ const HeroSection = () => {
             initial="hidden"
             animate="visible"
           >
-            <motion.h1 
+            <motion.h1
               variants={itemVariants}
               className="cursor-default text-4xl md:text-5xl lg:text-6xl font-extrabold text-gray-900 leading-tight"
             >
               Innovating Your Future with <span className="text-blue-600">Renbufix</span> Technologies
             </motion.h1>
 
-            <motion.p 
-              variants={itemVariants} 
+            <motion.p
+              variants={itemVariants}
               className="mt-6 text-lg text-gray-600 max-w-lg mx-auto lg:mx-0 cursor-default"
             >
-              Partner with <strong>Renbufix</strong> to build secure, scalable, and cutting-edge digital ecosystems. We turn your complex business challenges into streamlined success stories.
+              <b> Renbufix</b> is a growing technology startup focused on building cloud-first digital products. We work with startups and growing teams.
             </motion.p>
 
-            <motion.div 
-              variants={itemVariants} 
+            <motion.div
+              variants={itemVariants}
               className="mt-8 flex justify-center lg:justify-start space-x-4"
             >
-              <Link 
-                to="/about" 
+              <Link
+                to="/about"
                 className="bg-blue-600 text-white font-bold py-3 px-8 rounded-full hover:bg-blue-700 transition-transform transform hover:scale-105 duration-300 shadow-lg"
               >
                 DISCOVER MORE
               </Link>
-              <Link 
-                to="/contact" 
+              <Link
+                to="/contact"
                 className="bg-gray-800 text-white font-bold py-3 px-8 rounded-full hover:bg-black transition-transform transform hover:scale-105 duration-300 shadow-lg"
               >
                 GET STARTED
@@ -102,7 +102,7 @@ const HeroSection = () => {
           </motion.div>
 
           {/* RIGHT SIDE - PHONE + CENTER BALL */}
-          <motion.div 
+          <motion.div
             className="relative flex justify-center items-center"
             initial={{ opacity: 0, scale: 0.8 }}
             animate={{ opacity: 1, scale: 1 }}

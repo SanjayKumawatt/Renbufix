@@ -67,7 +67,7 @@ const EcommerceIntro = () => {
                             At <strong>Renbufix Technologies</strong>, we specialize in developing robust and scalable e-commerce software that empowers businesses to sell online effectively. Our solutions are designed to provide a seamless shopping experience for your customers and powerful management tools for your team.
                         </p>
                         <p className="mt-4 text-gray-600 text-lg leading-relaxed">
-                            Whether you are a startup launching your first online store or an established enterprise looking to upgrade your e-commerce platform, we provide custom solutions tailored to your unique business needs, helping you maximize sales and achieve a high return on investment (ROI).
+                            Whether you are a startup launching your first online store or an established growth-ready startup looking to upgrade your e-commerce platform, we provide custom solutions tailored to your unique business needs, helping you maximize sales and achieve a high return on investment (ROI).
                         </p>
                     </motion.div>
                     <motion.div initial={{ x: 50, opacity: 0 }} whileInView={{ x: 0, opacity: 1 }} viewport={{ once: true }} transition={{ duration: 0.8, ease: "easeOut" }}>

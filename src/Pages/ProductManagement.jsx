@@ -53,10 +53,10 @@ const ProductDevIntro = () => {
                             Building Future-Ready Products with <span className="text-blue-600">Renbufix Innovation</span>
                         </h2>
                         <p className="mt-6 text-gray-600 text-lg leading-relaxed">
-                            At <strong>Renbufix Technologies</strong>, product development is more than just coding; it's about bringing visionary ideas to life. We help startups and enterprises build scalable, robust, and user-centric software products that disrupt markets and solve real-world problems.
+                            At <strong>Renbufix Technologies</strong>, product development is more than just coding; it's about bringing visionary ideas to life. We help startups and businesses to build scalable and user-centric software products that disrupt markets and solve real-world problems.
                         </p>
                         <p className="mt-4 text-gray-600 text-lg leading-relaxed">
-                            Our end-to-end product engineering services cover the entire lifecycle-from ideation and prototyping to development, testing, and deployment. Whether you need a SaaS platform, a cloud-native application, or an enterprise-grade solution, we deliver excellence at every stage.
+                            Our end-to-end product engineering services cover the entire lifecycle-from ideation and prototyping to development, testing, and deployment. Whether you need a SaaS platform, a cloud-native application, or an growth-ready solution, we deliver excellence at every stage.
                         </p>
                     </motion.div>
                     <motion.div 
@@ -120,7 +120,7 @@ const OurExpertise = () => {
     const areas = [
         { title: 'SaaS Development', points: ['Multi-tenant Architecture', 'Subscription Billing', 'Scalable Cloud Infra'] },
         { title: 'MVP Development', points: ['Rapid Prototyping', 'Core Feature Focus', 'Fast Market Entry'] },
-        { title: 'Enterprise Software', points: ['Complex Workflows', 'High Security', 'Legacy Integration'] },
+        { title: 'Scalable Software', points: ['Complex Workflows', 'High Security', 'Legacy Integration'] },
         { title: 'API Development', points: ['RESTful & GraphQL', 'Secure Endpoints', 'Third-party Integrations'] }
     ];
 

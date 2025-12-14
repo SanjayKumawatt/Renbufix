@@ -120,7 +120,7 @@ const WhyChoosePaymentGateway = () => {
      const benefits = [
         { icon: <TrendingUp size={32}/>, title: 'High Success Rate', description: 'Our smart routing technology optimizes transaction paths to ensure industry-leading success rates.' },
         { icon: <Zap size={32}/>, title: 'Instant Settlement', description: 'Flexible settlement cycles to keep your cash flow healthy and your business moving fast.' },
-        { icon: <Scale size={32}/>, title: 'Competitive Pricing', description: 'Transparent, affordable pricing with no hidden fees, suitable for startups and enterprises alike.' },
+        { icon: <Scale size={32}/>, title: 'Competitive Pricing', description: 'Transparent, affordable pricing with no hidden fees, suitable for startups .' },
         { icon: <Lock size={32}/>, title: 'Dedicated Support', description: '24/7 expert technical support to resolve any integration or transaction queries instantly.' },
     ];
     return (

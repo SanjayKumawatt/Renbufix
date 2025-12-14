@@ -62,7 +62,7 @@ const PreparingSuccess = () => {
                             <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-500">Intelligent IT Solutions</span>
                         </motion.h2>
                         <motion.p variants={itemVariants} className="mt-6 text-gray-600 text-lg leading-relaxed">
-                            <strong>Renbufix Technologies</strong> is a rapidly evolving IT solutions partner headquartered in <strong>Faridabad, India</strong>. Founded in 2025, Renbufix was created to help founders build cloud-first products. we specialize in end-to-end software development, digital transformation, and strategic outsourcing.
+                            <strong>Renbufix Technologies</strong> is a growing technology startup focused on building cloud-first digital products. Founded in 2025, Renbufix was created to help founders build cloud-first products. we specialize in end-to-end software development, digital transformation, and strategic outsourcing.
                         </motion.p>
                         <motion.p variants={itemVariants} className="mt-4 text-gray-600 text-lg leading-relaxed">
                            Founded by a team of industry veterans, Renbufix is dedicated to engineering high-performance, scalable, and secure digital products that drive tangible business growth for clients worldwide.

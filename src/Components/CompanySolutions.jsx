@@ -5,7 +5,7 @@ import { Check, Diamond, CalendarCheck, Briefcase, Wallet } from 'lucide-react';
 const CompanySolution = () => {
 
     const features = [
-        'Enterprise Software', '24/7 Tech Support', 'Corporate Innovation',
+        'Cloud-native solutions', '24/7 Tech Support', 'Corporate Innovation',
         'Mobile-First Design', 'Digital Growth', 'Free Consultation'
     ];
 
@@ -27,7 +27,7 @@ const CompanySolution = () => {
         },
         {
             icon: <Wallet size={40} className="text-yellow-500" />,
-            title: 'Enterprise Solutions',
+            title: 'Scalable Digital Platforms',
             description: 'Building robust, scalable corporate architectures that streamline operations and maximize cost-efficiency.'
         }
     ];

@@ -110,7 +110,7 @@ const ContentManagementSystem = () => {
                         </motion.p>
                         
                         <motion.p variants={itemVariants} className="mt-4 text-gray-600 text-lg leading-relaxed">
-                            From agile startups to global enterprises, our platforms enable teams to seamlessly upload, edit, and organize digital assets-including text, images, videos, and documents-all from a centralized, intuitive interface. With support for custom plugins and future-ready integrations, Renbufix ensures your CMS evolves alongside your business.
+                            From agile startups to global growth-ready systems, our platforms enable teams to seamlessly upload, edit, and organize digital assets-including text, images, videos, and documents-all from a centralized, intuitive interface. With support for custom plugins and future-ready integrations, Renbufix ensures your CMS evolves alongside your business.
                         </motion.p>
                         
                         <motion.div variants={itemVariants} className="mt-8 flex gap-4">

@@ -95,7 +95,7 @@ const CollaborationSection = () => {
                             Who We <span className="text-blue-600">Empower</span>
                         </motion.h3>
                         <motion.h4 variants={itemVariants} className="mt-4 text-xl font-semibold text-gray-700">
-                            Fueling Startups, Scaling SMBs, & Transforming Enterprises.
+                            Fueling Startups, Scaling SMBs, & Cloud-native solutions.
                         </motion.h4>
                         
                         <motion.div className="space-y-6 mt-8">
@@ -103,7 +103,7 @@ const CollaborationSection = () => {
                                 At Renbufix, we don't just build software; we build partnerships. Whether you are a disruptor challenging the status quo or an industry leader seeking efficiency, we adapt to your vision.
                             </motion.p>
                             <motion.p variants={itemVariants} className="text-gray-600 text-lg leading-relaxed">
-                                Our flexible engagement models ensure that you get the exact technical expertise you need-from rapid prototyping to full-scale enterprise architecture.
+                                Our flexible engagement models ensure that you get the exact technical expertise you need-from rapid prototyping to full-scalable application ecosystems.
                             </motion.p>
                             <motion.p variants={itemVariants} className="text-gray-600 text-lg leading-relaxed border-l-4 border-green-500 pl-4 italic">
                                 "We deliver reliability, innovation, and speed-ensuring your technology becomes your biggest competitive advantage."

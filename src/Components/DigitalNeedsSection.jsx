@@ -52,10 +52,10 @@ const DigitalNeedsSection = () => {
                         transition={{ duration: 0.8, ease: 'easeOut' }}
                     >
                         <h1 className="text-4xl md:text-5xl font-bold leading-tight">
-                            One Partner. <br /> Every Digital Solution. <br /> All Under One Roof.
+                            A Focused Technology  <br />Partner For  <br />Modern Digital Solutions.
                         </h1>
                         <p className="mt-6 text-lg text-gray-200">
-                            Renbufix Technologies offers a powerful suite of services including web development, mobile apps, cloud integration, and AI-driven solutions to help your business scale efficiently and smartly.
+                            Core digital services designed for modern businesses.
                         </p>
                         <p className="mt-4 text-lg text-gray-200">
                             We support early-stage and scaling companies.

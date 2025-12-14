@@ -96,7 +96,7 @@ const Header = () => {
                         {/* IT Services Dropdown */}
                         <li className="relative group">
                             <button className="flex items-center text-gray-700 hover:text-blue-600 font-medium py-4">
-                                IT Services <ChevronDownIcon />
+                                Digital Services <ChevronDownIcon />
                             </button>
                             <div className="absolute left-0 top-full hidden group-hover:block bg-white shadow-lg rounded-md w-72 py-2 border border-gray-100">
                                 {itServices.map(service => (
@@ -110,7 +110,7 @@ const Header = () => {
                         {/* IT Products Dropdown */}
                         <li className="relative group">
                             <button className="flex items-center text-gray-700 hover:text-blue-600 font-medium py-4">
-                                IT Products <ChevronDownIcon />
+                                Digital Products <ChevronDownIcon />
                             </button>
                             <div className="absolute left-0 top-full hidden group-hover:block bg-white shadow-lg rounded-md w-72 py-2 border border-gray-100">
                                 {itProducts.map(product => (
