@@ -157,7 +157,7 @@ const Header = () => {
                         </details>
 
                         <details className="w-full group">
-                            <summary className="py-3 text-center font-medium cursor-pointer list-none hover:text-blue-600 transition-colors">IT Services</summary>
+                            <summary className="py-3 text-center font-medium cursor-pointer list-none hover:text-blue-600 transition-colors">Digital Services</summary>
                             <div className="flex flex-col space-y-1 pb-2">
                                 {itServices.map(service => (
                                     <Link
@@ -173,7 +173,7 @@ const Header = () => {
                         </details>
 
                         <details className="w-full group">
-                            <summary className="py-3 text-center font-medium cursor-pointer list-none hover:text-blue-600 transition-colors">IT Products</summary>
+                            <summary className="py-3 text-center font-medium cursor-pointer list-none hover:text-blue-600 transition-colors">Digital Products</summary>
                             <div className="flex flex-col space-y-1 pb-2">
                                 {itProducts.map(product => (
                                     <Link
